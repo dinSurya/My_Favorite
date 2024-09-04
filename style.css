@@ -6,3 +6,10 @@ body{
 div{
     margin-bottom: 20px;
 }
+
+.photo {
+    width: 400px;
+    height: 350px;
+    margin: 5px;
+    border: solid black 5px;
+}
